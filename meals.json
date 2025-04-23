@@ -1,0 +1,25 @@
+{
+    "breakfast": [
+      "Dose",
+      "Idli chutney",
+      "Rava Upma",
+      "Shavige Upma",
+      "Poha",
+      "Uttapppa",
+      "Paddu",
+      ""
+    ],
+    "lunch": [
+      "Veg biryani",
+      "Grilled chicken and salad",
+      "Paneer butter masala with roti",
+      "Chickpea curry with rice",
+      "Sambar and rice"
+    ],
+    "dinner": [
+      "Noodles",
+      "Veg Fried rice",
+      ""
+    ]
+  }
+  
